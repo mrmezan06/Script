@@ -1,0 +1,20 @@
+SSID: White_Devil
+Password: nopassword
+SSID: Athoi
+Password: optical white
+SSID: TECNO Pouvoir 4
+Password: abcdefgh
+SSID: RED BULL
+Password: No Password
+SSID: Galaxy A1219DE
+Password: abcdefgh
+SSID: Devils Gang
+Password: NoPassword
+SSID: BGX1-YSBzcXVhcmUgbWVhbA
+Password: 12345678
+SSID: AndroidShare_4411
+Password: 76cyexfnjkapk5i
+SSID: AndroidShare_2233
+Password: 93r7dera8s4rk7u
+SSID: ANd
+Password: rai01712000319
